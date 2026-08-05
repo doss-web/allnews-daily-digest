@@ -124,7 +124,7 @@ def fetch_zhihu_hot(max_items=20):
             resp = requests.get(url, headers=BROWSER_HEADERS, timeout=20)
             resp.raise_for_status()
             data = resp.json()
-            for entry in data.get("data", []):
+            for entry in data.get("data", [])[:max_items]:
                 target = entry.get("target", {})
                 title = target.get("title", "")
                 if not title:
@@ -216,15 +216,15 @@ def fetch_all():
     zhihu_daily = fetch_via_rsshub("/zhihu/daily", "知乎日报", max_items=10, cutoff_days=1)
     print(f"  Got {len(zhihu_daily)} items")
 
+    print("Fetching 观察者网 头条 (RSSHub)...")
+    guancha_headline = fetch_via_rsshub("/guancha/headline", "观察者网·头条", max_items=1, cutoff_days=2)
+    print(f"  Got {len(guancha_headline)} items")
+
     print("Fetching 观察者网 要闻 (RSSHub)...")
-    guancha_all = fetch_via_rsshub("/guancha/all", "观察者网", max_items=10, cutoff_days=1)
-    print(f"  Got {len(guancha_all)} items")
+    guancha_story = fetch_via_rsshub("/guancha/story", "观察者网·要闻", max_items=8, cutoff_days=1)
+    print(f"  Got {len(guancha_story)} items")
 
-    print("Fetching 观察者网 风闻 (RSSHub)...")
-    guancha_fengwen = fetch_via_rsshub("/guancha/fengwen", "观察者网·风闻", max_items=10, cutoff_days=1)
-    print(f"  Got {len(guancha_fengwen)} items")
-
-    raw = zhihu_hot + zhihu_daily + guancha_all + guancha_fengwen
+    raw = zhihu_hot + zhihu_daily + guancha_headline + guancha_story
     items = dedupe_items(raw)
     print(f"Deduped {len(raw)} raw items to {len(items)} unique items")
     return items
