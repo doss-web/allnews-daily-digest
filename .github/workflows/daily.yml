@@ -35,12 +35,19 @@ jobs:
         run: |
           git config user.name "News Daily Bot"
           git config user.email "bot@github.com"
+          DATE=$(TZ=Asia/Shanghai date +"%Y-%m-%d")
           git add daily/ data/
           if git diff --staged --quiet; then
             echo "No changes to commit"
-          else
-            DATE=$(TZ=Asia/Shanghai date +"%Y-%m-%d")
-            git commit -m "📰 新闻每日简报 for ${DATE}"
-            git pull --rebase
-            git push
+            exit 0
           fi
+          git commit -m "📰 新闻每日简报 for ${DATE}"
+          # 同步远端；若 rebase 冲突（同一天存档被多次提交），以本地本次生成为准重新提交
+          git fetch origin
+          if ! git pull --rebase origin main 2>&1; then
+            echo "检测到 rebase 冲突，以本地生成为准重新提交"
+            git rebase --abort 2>/dev/null || true
+            git reset --soft origin/main
+            git commit -m "📰 新闻每日简报 for ${DATE}"
+          fi
+          git push origin main
