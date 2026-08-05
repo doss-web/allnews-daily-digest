@@ -4,6 +4,7 @@ Produces a single Chinese daily digest, split into 知乎 / 观察者网 section
 """
 
 import os
+import time
 
 import requests
 
@@ -19,7 +20,7 @@ SYSTEM_PROMPT = """你是一位资深新闻主编，为关心国内与国际时�
 
 **🔥 [标题]**
 - **内容**：引用该话题自带的内容摘录，基于原文精简保留核心信息与关键数字（1-2 句即可，不要自己编造或改写原文事实；摘录为空则不输出内容行）
-- 热度：xxx 热度 | 回答数：xxx（照搬输入中的热度与回答数）
+- 热度：xxx 热度 | 回答数：xxx（照搬输入中的数值；若输入未提供热度或回答数，则整行省略，严禁编造数字）
 - 来源：[知乎热榜](URL)
 
 ## 🟥 观察者网
@@ -106,8 +107,24 @@ def summarize(items, date_str):
     }
 
     print(f"Calling {model}...")
-    resp = requests.post(url, headers=headers, json=payload, timeout=180)
-    resp.raise_for_status()
+    text = None
+    for attempt in range(4):
+        try:
+            resp = requests.post(url, headers=headers, json=payload, timeout=180)
+            resp.raise_for_status()
+            text = resp.json()["choices"][0]["message"]["content"].strip()
+            break
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            print(f"  [summarize] 网络错误（第 {attempt + 1} 次）: {e}")
+        except requests.exceptions.HTTPError as e:
+            status = resp.status_code
+            if status in (429, 500, 502, 503, 504):
+                print(f"  [summarize] 服务端错误 {status}（第 {attempt + 1} 次），重试...")
+            else:
+                raise  # 401/403 等认证错误，重试无用，快速失败
+        if attempt < 3:
+            time.sleep(5 * (attempt + 1))
+    if text is None:
+        raise RuntimeError(f"[summarize] {model} 调用失败：重试 4 次仍未成功")
 
-    text = resp.json()["choices"][0]["message"]["content"].strip()
     return f"# 新闻每日简报 · {date_str}\n\n{text}\n\n---\n*由 DeepSeek ({model}) 生成*"

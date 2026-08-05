@@ -24,11 +24,12 @@ BROWSER_HEADERS = {
 
 # Public RSSHub instances, tried in order (the first that yields items wins).
 # Individual public instances are flaky, so the fallback list keeps the
-# RSSHub-backed sources (知乎日报, 观察者网) resilient.
+# RSSHub-backed sources (观察者网, 知乎兜底) resilient.
 RSSHUB_INSTANCES = [
     "https://hub.slarker.me",        # verified reachable
-    "https://rsshub.rssforever.com",
-    "https://rsshub.app",
+    "https://rsshub.rssforever.com", # verified reachable
+    "https://rsshub.ktachibana.party",  # verified reachable
+    "https://rsshub.app",            # often rate-limited, kept as last resort
 ]
 
 
@@ -150,6 +151,10 @@ def fetch_zhihu_hot(max_items=20):
                 time.sleep(2 * (attempt + 1))
             else:
                 print(f"  [知乎热榜] Error after 3 attempts: {e}")
+    if not items:
+        # 官方 API 被风控/不可用时，降级到 RSSHub /zhihu/hot 兜底
+        print("  [知乎热榜] 官方 API 不可用，改用 RSSHub /zhihu/hot 兜底")
+        items = fetch_via_rsshub("/zhihu/hot", "知乎热榜", max_items=max_items, cutoff_days=2)
     return items
 
 
