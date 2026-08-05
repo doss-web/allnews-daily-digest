@@ -2,8 +2,8 @@ name: 新闻每日简报
 
 on:
   schedule:
-    # Beijing 08:00 = UTC 00:00 (GitHub Actions cron runs in UTC)
-    - cron: '0 0 * * *'
+    # Beijing 12:00 = UTC 04:00 (GitHub Actions cron runs in UTC)
+    - cron: '0 4 * * *'
   workflow_dispatch: # Allow manual trigger
 
 jobs:
