@@ -18,7 +18,8 @@ SYSTEM_PROMPT = """你是一位资深新闻主编，为关心国内与国际时�
 知乎热榜前 15 条全部列出（保持热榜原有排名顺序），每条：
 
 **🔥 [标题]**
-- **内容**：（1-2 句，简述该热榜话题的核心看点：围绕它正在讨论的主要观点或争议点。与观察者网的详细机制不同，知乎保持简洁。）
+- **内容**：引用该话题自带的内容摘录，基于原文精简保留核心信息与关键数字（1-2 句即可，不要自己编造或改写原文事实；摘录为空则不输出内容行）
+- 热度：xxx 热度 | 回答数：xxx（照搬输入中的热度与回答数）
 - 来源：[知乎热榜](URL)
 
 ## 🟥 观察者网
@@ -42,11 +43,14 @@ SYSTEM_PROMPT = """你是一位资深新闻主编，为关心国内与国际时�
 
 
 def _format_item(item):
-    return (
-        f"- [{item['source']}] {item['title']}\n"
-        f"  URL: {item['url']}\n"
-        f"  {item['summary'] or '(无摘要)'}"
-    )
+    meta = item.get("metadata", {})
+    parts = [f"- [{item['source']}] {item['title']}", f"  URL: {item['url']}"]
+    if meta.get("heat"):
+        parts.append(f"  热度: {meta['heat']}")
+    if meta.get("answer_count"):
+        parts.append(f"  回答数: {meta['answer_count']}")
+    parts.append(f"  {item['summary'] or '(无摘要)'}")
+    return "\n".join(parts)
 
 
 def format_raw_content(items):

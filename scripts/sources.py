@@ -141,7 +141,7 @@ def fetch_zhihu_hot(max_items=20):
                     source="知乎热榜",
                     published=datetime.fromtimestamp(target.get("created", 0), tz=timezone.utc).isoformat()
                     if target.get("created") else None,
-                    metadata={"heat": heat},
+                    metadata={"heat": heat, "answer_count": target.get("answer_count", 0)},
                 ))
             break
         except Exception as e:
