@@ -209,12 +209,8 @@ def fetch_via_rsshub(path, source_name, max_items=10, cutoff_days=1):
 def fetch_all():
     """Fetch from all sources, return deduplicated news items."""
     print("Fetching 知乎热榜 (official API)...")
-    zhihu_hot = fetch_zhihu_hot(max_items=20)
+    zhihu_hot = fetch_zhihu_hot(max_items=15)
     print(f"  Got {len(zhihu_hot)} items")
-
-    print("Fetching 知乎日报 (RSSHub)...")
-    zhihu_daily = fetch_via_rsshub("/zhihu/daily", "知乎日报", max_items=10, cutoff_days=1)
-    print(f"  Got {len(zhihu_daily)} items")
 
     print("Fetching 观察者网 头条 (RSSHub)...")
     guancha_headline = fetch_via_rsshub("/guancha/headline", "观察者网·头条", max_items=1, cutoff_days=2)
@@ -224,7 +220,7 @@ def fetch_all():
     guancha_story = fetch_via_rsshub("/guancha/story", "观察者网·要闻", max_items=8, cutoff_days=1)
     print(f"  Got {len(guancha_story)} items")
 
-    raw = zhihu_hot + zhihu_daily + guancha_headline + guancha_story
+    raw = zhihu_hot + guancha_headline + guancha_story
     items = dedupe_items(raw)
     print(f"Deduped {len(raw)} raw items to {len(items)} unique items")
     return items
