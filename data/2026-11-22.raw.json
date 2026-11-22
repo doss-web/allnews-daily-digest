@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-22",
+  "count": 24,
+  "items": [
+    {
+      "category": "news",
+      "title": "商务部回应美拟禁止中国运营商获取电话号码资源，称相关做法破坏中美经贸稳定局面，中方坚决反对，如何解读？",
+      "url": "https://www.zhihu.com/question/2107769225699746266",
+      "normalized_url": "https://www.zhihu.com/question/2107769225699746266",
+      "summary": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问。 问：美东时间11月19日，美国联邦通信委员会（FCC）投票通过有关规则，拟禁止中国电信、中国联通、中国移动等被列入“覆盖清单”的电信运营商直接获取美国互联网电话号码资源。请问商务部对此有何评论？ 答：我们注意到有关情况。美国联邦通信委员会滥用监管权力，泛化所谓国家安全风险，在缺乏事实依据的情况下，违反非歧视和公平竞争原则，肆意污蔑、恶意打压中国电信企业在美运营。该机构近期持续推动中美两国在电信、通信和检测认证领域脱钩断链，有关做法违背两国元首达成的重要共识，破坏中美经贸稳定局面，中方对此坚决反对。 中方敦促美方立即撤销有关措施，回到通过磋商解决问题的正确道路上。中方将采取必要措施，坚定维护自身利益。",
+      "source": "知乎热榜",
+      "published": "2026-11-22T01:35:43+00:00",
+      "metadata": {
+        "heat": "755 万热度",
+        "answer_count": 160
+      }
+    },
+    {
+      "category": "news",
+      "title": "Lean与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
+      "url": "https://www.zhihu.com/question/2107620110105932525",
+      "normalized_url": "https://www.zhihu.com/question/2107620110105932525",
+      "summary": "github地址：https://github.com/leanprover-community/blog/discussions 原文： Lean 和 Mathlib 社区的联合声明，得到了 Lean FRO 和 Mathlib Initiative 的认可。 2026 年 11 月 20 日，Levent Alpöge发布了黎曼猜想的证明，这是一个包含 1700 万行代码的精简库。 我们完全相信阿尔珀格对黎曼猜想的证明是正确的，我们祝贺他取得这一成就。 我们的理由概述如下。 该代码库仅直接依赖于 Mathlib。过去一天，Lean 和 Mathlib 社区齐心协力验证了证明的正确性。我们在此证明黎曼猜想的陈述和证明均正确无误。https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/中列出的四个标准均已满足。 黎曼猜想的表述是正确的。该表述出自 Mathlib:RiemannHypothesis，并已由精通 Lean 和数论的专家仔细审核。Alpöge 的库编译正确。目前已有数十人报告",
+      "source": "知乎热榜",
+      "published": "2026-11-21T15:43:11+00:00",
+      "metadata": {
+        "heat": "308 万热度",
+        "answer_count": 696
+      }
+    },
+    {
+      "category": "news",
+      "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先”？",
+      "url": "https://www.zhihu.com/question/2107408889713115755",
+      "normalized_url": "https://www.zhihu.com/question/2107408889713115755",
+      "summary": "来源：华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称“我们选择创新优先” 11 月 21 日消息，华为全新子品牌星芒于 11 月 20 日发布首款机型 OSTA O1 Pro，12GB+256GB 版本首发价 5499 元，顶配 16GB+1TB 首发 8799 元。这一定价与外界此前对子品牌“主打性价比”的预期形成落差。 对此，星芒品牌总经理刘赫在微博评论区密集回应了网友质疑。 首先，争议的焦点之一，是 O1 Pro 与华为 Pura X View 的价差。两者同为麒麟 9030S 平台、6.39 英寸 1.5K 阔直屏，O1 Pro 砍掉了超广角镜头，起售价仅比 Pura X View 低 500 元。 有网友直言“再便宜 500 销量翻三倍”，刘赫的回应是：“我宁愿先把产品做好一点… 便宜未必是创新的方向。O1 Pro 是尝试新技术，在 AI 带来新体验。”他将“星芒要便宜还是星芒要创新”概括为一道选择题，并强调“我们选择创新优先”。",
+      "source": "知乎热榜",
+      "published": "2026-11-21T01:43:53+00:00",
+      "metadata": {
+        "heat": "289 万热度",
+        "answer_count": 158
+      }
+    },
+    {
+      "category": "news",
+      "title": "武汉一小学设牌劝返送水壶、作业的家长，让孩子自己承担忘带东西的后果，这种方式怎么样？值得效仿吗？",
+      "url": "https://www.zhihu.com/question/2107829110864966417",
+      "normalized_url": "https://www.zhihu.com/question/2107829110864966417",
+      "summary": "[2 张图片]",
+      "source": "知乎热榜",
+      "published": "2026-11-22T05:33:41+00:00",
+      "metadata": {
+        "heat": "265 万热度",
+        "answer_count": 45
+      }
+    },
+    {
+      "category": "news",
+      "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
+      "url": "https://www.zhihu.com/question/623251460",
+      "normalized_url": "https://www.zhihu.com/question/623251460",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2023-09-22T01:23:58+00:00",
+      "metadata": {
+        "heat": "232 万热度",
+        "answer_count": 966
+      }
+    },
+    {
+      "category": "news",
+      "title": "AI 宣称证明黎曼猜想后，数学家又公开了一份完全不使用 AI 的广义黎曼猜想证明，如何看待？",
+      "url": "https://www.zhihu.com/question/2107333891975599197",
+      "normalized_url": "https://www.zhihu.com/question/2107333891975599197",
+      "summary": "11 月 20 日，Anthropic 数学家 Levent Alpöge 宣称与 Claude 合作证明了黎曼猜想，并表示证明可以推广至广义黎曼猜想（GRH）。 然而，就在消息公布后，美国数学学会主席 Ravi Vakil 紧急宣布：数学家 Alessandro Maria Masullo 同样提出了广义黎曼猜想的证明，而且完全没有使用 AI！ 据介绍，这项研究历时约 12 年，斯坦福数学家 Brian Conrad 已经审查了数月。原计划继续完善一年后发表，但现在决定提前公开，邀请全球数学家共同审查。 两份声称解决同一重大数学难题的证明，一份借助 AI，一份完全由人类独立完成，几乎同时公开。 目前两份证明都尚未得到充分验证。 Ravi Vakil 紧急公告：Hurried Announcement: Alessandro Masullo GRH Alessandro Masullo 证明论文《The Music of the Primes》：https://math216.wordpress.com/wp-content/uploads/2026/11/the-music-of-t",
+      "source": "知乎热榜",
+      "published": "2026-11-20T20:45:52+00:00",
+      "metadata": {
+        "heat": "199 万热度",
+        "answer_count": 40
+      }
+    },
+    {
+      "category": "news",
+      "title": "人能控制自己的长相吗？",
+      "url": "https://www.zhihu.com/question/26497360",
+      "normalized_url": "https://www.zhihu.com/question/26497360",
+      "summary": "人能够通过饮食锻炼来控制自己的体型，那么是否也可以在不借助整形等外在手段的条件下，通过自身调节在一定范围内控制自己的相貌吗？ 相关话题：一个人在 120 斤和 100 斤时的世界是完全不同的吗？ 人的胖瘦和人的精神气质对长相影响很大的。",
+      "source": "知乎热榜",
+      "published": "2014-11-05T15:37:57+00:00",
+      "metadata": {
+        "heat": "142 万热度",
+        "answer_count": 1362
+      }
+    },
+    {
+      "category": "news",
+      "title": "网友称在父母面前切换成「无性别低智儿童」，被问到工作、婚恋话题都说「不知道」，为啥要这样？这招管用吗？",
+      "url": "https://www.zhihu.com/question/2106716173475788406",
+      "normalized_url": "https://www.zhihu.com/question/2106716173475788406",
+      "summary": "有网友发帖说，自己一回家就切换成“无性别低智儿童”，不聊人际关系，不聊社会议题，不聊情感，不聊国际关系，问就是装傻。 评论区跟了很长一串“这个帖子我等了20年”，网友补充出一份心照不宣的“回家降级清单”——不化妆，穿得越土越好；只聊“中午吃啥”“晚上吃啥”，问啥都是“不知道”“我不会”；遇事喊妈，不碰工作、婚恋、价值观这些容易吵起来的话题；每天都出点小洋相，博取善良的夫妻多赞助几年。 有人已经30多岁，回家一谈对异性的看法，爸妈还是用一种很惊讶的眼神看过来，突然发现自己30多岁的孩子“开智”了。 “开智”放在日常语境中，是夸人思想境界高了一层的意思。可在家里，“开智”往往是一个让人不太舒服的信号——你开始有自己的判断了，对亲戚的人情世故有看法了，对婚恋、工作、社会议题，能说出跟父母不一样的道理了。 而部分父母对这个信号的第一反应不是好奇，是警觉，好像没办法接受孩子用自己独特的视角去理解世界。 这里的孩子，可能是20岁刚接触社会的学生，可能是30岁在职场摸爬滚打的打工人，也可能是自己孩子都长大的中年人。 为什么年轻人在外面越能干，回家越要装“没开智”？中国人民大学心理健康教育与咨询中心主",
+      "source": "知乎热榜",
+      "published": "2026-11-19T03:51:16+00:00",
+      "metadata": {
+        "heat": "136 万热度",
+        "answer_count": 23
+      }
+    },
+    {
+      "category": "news",
+      "title": "特朗普称将与伊朗达成一项永久性协议，为何会在这一时间放出这一消息？永久性协议内可能包含哪些内容？",
+      "url": "https://www.zhihu.com/question/2107616621631988039",
+      "normalized_url": "https://www.zhihu.com/question/2107616621631988039",
+      "summary": "美国总统特朗普在当地时间21日播出的采访节目中说，将与伊朗达成一项永久性协议。 特朗普称将与伊朗达成一项永久性协议更多资讯请下载央视新闻客户端",
+      "source": "知乎热榜",
+      "published": "2026-11-21T15:29:20+00:00",
+      "metadata": {
+        "heat": "128 万热度",
+        "answer_count": 45
+      }
+    },
+    {
+      "category": "news",
+      "title": "「望梅止渴」的「梅」和「墙角数枝梅」的「梅」是一种植物吗？",
+      "url": "https://www.zhihu.com/question/20246045",
+      "normalized_url": "https://www.zhihu.com/question/20246045",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2012-05-19T08:32:44+00:00",
+      "metadata": {
+        "heat": "123 万热度",
+        "answer_count": 31
+      }
+    },
+    {
+      "category": "news",
+      "title": "BLG 夺冠能挽救 LPL 吗？能复刻前两个「电竞元年」吗？",
+      "url": "https://www.zhihu.com/question/2106420376573928403",
+      "normalized_url": "https://www.zhihu.com/question/2106420376573928403",
+      "summary": "前几年各种战队解散赞助商流失，最近听说rng疑似要复活",
+      "source": "知乎热榜",
+      "published": "2026-11-18T08:15:53+00:00",
+      "metadata": {
+        "heat": "122 万热度",
+        "answer_count": 101
+      }
+    },
+    {
+      "category": "news",
+      "title": "长安大学回应「14日面试13日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
+      "url": "https://www.zhihu.com/question/2107570779529529086",
+      "normalized_url": "https://www.zhihu.com/question/2107570779529529086",
+      "summary": "长安大学11月21日通报，11月14日，学校开展了专职辅导员招聘初步面试工作，面试结束后，人事处工作人员将通过初步面试的人员名单以图片格式添加到11月13日在网站后台起草的公告文字稿中，并于14日18时55分发布了公告。工作人员未注意到公告显示的发布日期为网站后台文字稿创建日期(11月13日)，相关审核人员也未发现公告发布日期错误。人事处收到考生反映后，于14日20时31分更正了公告发布日期。 经专项调查组认真调阅相关材料，核查网站后台日志，确认公告发布的名单确为14日通过初步面试的人员，不存在面试前就确定通过初步面试人员名单的情况。 依据有关规定，经研究决定，给予人事处负责此项工作的科长停职检查的组织处理，给予人事处分管此项工作的副处长调整职务的组织处理，给予人事处处长诫勉处理。 情况通报-长安大学",
+      "source": "知乎热榜",
+      "published": "2026-11-21T12:27:10+00:00",
+      "metadata": {
+        "heat": "122 万热度",
+        "answer_count": 18
+      }
+    },
+    {
+      "category": "news",
+      "title": "有人说搞南水北调不如搞海水淡化，你是否同意？",
+      "url": "https://www.zhihu.com/question/390865312",
+      "normalized_url": "https://www.zhihu.com/question/390865312",
+      "summary": "请从客观的角度回答。别喷谢谢",
+      "source": "知乎热榜",
+      "published": "2020-04-26T23:50:45+00:00",
+      "metadata": {
+        "heat": "121 万热度",
+        "answer_count": 239
+      }
+    },
+    {
+      "category": "news",
+      "title": "胖东来搬离后原址所开新商场几乎倒闭，一商场为何会如此依赖单一零售品牌？暴露出商业地产哪些经营问题？",
+      "url": "https://www.zhihu.com/question/2107157248426492187",
+      "normalized_url": "https://www.zhihu.com/question/2107157248426492187",
+      "summary": "极目新闻记者 陈洋洋 进入11月下旬，距离胖东来许昌生活广场门店闭店的时间越来越近，不少周边商户担心生意冷淡，开始规划未来。而类似的情况早在11年前就有发生。 当地市民拍摄的胖东来大胖店原址图片 2015年，已经在新乡市平原路开店10年的胖东来大胖店因房租问题选择闭店，之后由大商集团接手。2026年11月20日，多名新乡本地市民向极目新闻记者表示，原址所开的新商场如今已经濒临倒闭，仅剩一楼的几户门面房，外立面也残破不堪，客流量也随着胖东来的搬迁而流失。 据此前报道，2005年，胖东来在平原路成立了新乡首家门店，彼时，这里的地段并不繁华。但在胖东来入驻后，超市连带着周边店铺生意一起火爆，整条街都变得热闹起来。2015年，因租金问题，胖东来选择闭店。 于东来个人账号截图 就在前不久，于东来谈及此事还表示，当年的新乡“大胖”店，年利润也曾达到六七千万元以上，但房租到期时，同样面临甲方租金上涨的情况，从逾800万元直接涨到2400万元，“我想都没想，直接放弃”。此后，胖东来在新乡当地迁址并另开店面。 大商集团接手大胖店原商场后，更名为新生活时代广场，但客流量却比不上胖东来时的红火，大批民众在胖",
+      "source": "知乎热榜",
+      "published": "2026-11-20T09:03:57+00:00",
+      "metadata": {
+        "heat": "119 万热度",
+        "answer_count": 25
+      }
+    },
+    {
+      "category": "news",
+      "title": "汉字简化的过程中，为何很多汉字的部首被用“又”字和叉代替？",
+      "url": "https://www.zhihu.com/question/6303982848",
+      "normalized_url": "https://www.zhihu.com/question/6303982848",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2024-12-08T10:07:21+00:00",
+      "metadata": {
+        "heat": "103 万热度",
+        "answer_count": 24
+      }
+    },
+    {
+      "category": "news",
+      "title": "博士新生骤降10%，特朗普动摇美国人才根基？",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909505.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909505.shtml",
+      "summary": "【文/观察者网 周砚之】 美国科研人才培养体系正出现一个令人警惕的信号：博士生总人数仍在增长，但新入学人数却大幅下降。随着特朗普政府持续调整科研经费和移民政策，美国大学开始担忧，今天减少的博士新生，可能成为未来科技竞争中的人才缺口。 美国国家科学基金会（NSF）下属国家科学与工程统计中心11月18日发布报告显示，2025年美国科学、工程及健康领域首次入学的全日制博士生人数为46264人，比2024年下降9.9%。 其中，持临时签证的外国博士新生人数从23756人降至19915人，降幅达16.2%；美国公民和永久居民博士新生人数也下降4.4%。 然而，报告同时揭示了另一个看似矛盾的现象：2025年美国上述领域在读博士生总人数达到315098人，同比增长0.9%，创下该项调查的历史纪录。 博士生总量创新高，新生却骤减近一成，这意味着什么？ 科研经费不确定，高校不敢招人 美国博士教育与联邦科研经费高度绑定。在许多理工科专业，博士生不仅是学生，也是实验室的重要研究人员，其奖学金、生活津贴和研究经费往往依赖教授获得的科研项目资助。 特朗普2025年1月重返白宫后，联邦政府调整科研拨款政策，暂停或",
+      "source": "观察者网·头条",
+      "published": "2026-11-22T08:48:00+00:00",
+      "metadata": {
+        "feed_url": "https://hub.slarker.me/guancha/headline"
+      }
+    },
+    {
+      "category": "news",
+      "title": "刘贤志被遣返回国，涉嫌向多名公职人员行贿",
+      "url": "https://www.guancha.cn/ZhengZhi/2026_11_22_909512_s.shtml",
+      "normalized_url": "https://www.guancha.cn/ZhengZhi/2026_11_22_909512_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:13:00+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "新疆乌鲁木齐发生4.5级地震，暂无人员伤亡报告",
+      "url": "https://www.guancha.cn/ZhengZhi/2026_11_22_909511_s.shtml",
+      "normalized_url": "https://www.guancha.cn/ZhengZhi/2026_11_22_909511_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:59+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "西班牙新纳粹组织内幕曝光：乌克兰受训，涉嫌策划武装起义",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909516_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909516_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:58+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "中国申办公海条约秘书处遇变数，关键在全球南方？",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909479_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909479_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:58+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "全球气候谈判进入最后关头，中国正成为受益者？",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909496_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909496_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:58+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "中国女富商在菲律宾遭绑架支付1800万比索赎金，嫌犯竟为8名警察",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909504_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909504_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:57+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "劫持36列火车抢走2200万美元货物，美国加州14人团伙被捕",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909521_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_22_909521_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:57+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "八马茶业回应被暂停参与全军物资工程服务采购资格",
+      "url": "https://www.guancha.cn/ChanJing/2026_11_22_909523_s.shtml",
+      "normalized_url": "https://www.guancha.cn/ChanJing/2026_11_22_909523_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-22T12:12:57+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    }
+  ]
+}
