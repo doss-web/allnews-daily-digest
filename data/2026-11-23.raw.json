@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-23",
+  "count": 24,
+  "items": [
+    {
+      "category": "news",
+      "title": "怎么看 Nielsen 发布《黎曼猜想证明无效》的反驳论文？",
+      "url": "https://www.zhihu.com/question/2108116147598054620",
+      "normalized_url": "https://www.zhihu.com/question/2108116147598054620",
+      "summary": "Jenny Lorraine Nielsen 在 PhilArchive(哲学领域的开放论文预印本平台) 发布了一片 《Invalidity of the Alpoge Proposed Proof of the Riemann Hypothesis》论文，核心是质疑 Alpöge 的黎曼猜想证明作弊，她抓住的是 Lean 代码里一个很有意思的地方：def anyGeometry : GeoP := fun _ _ _ => True 所以他怀疑代码里存在作弊的问题。 https://philpapers.org/archive/NIEIOT-2.pdf",
+      "source": "知乎热榜",
+      "published": "2026-11-23T00:34:16+00:00",
+      "metadata": {
+        "heat": "1620 万热度",
+        "answer_count": 120
+      }
+    },
+    {
+      "category": "news",
+      "title": "张雪跨界做外卖骑手电摩，万元定价 10 分钟补能，这款产品踩中真实痛点了吗？能打动外卖骑手吗？",
+      "url": "https://www.zhihu.com/question/2108134885441396854",
+      "normalized_url": "https://www.zhihu.com/question/2108134885441396854",
+      "summary": "11月22日，张雪在广东珠海国际赛车场接受采访时表示，计划明年推出针对外卖骑手的电动摩托车。 张雪表示，可能会出两个版本，一个里程续航100km的，一个150km的，能涵盖99%外卖小哥的需求。“补能时间目标是10分钟！吃个午饭的时间，你的车就补能好了！” 其表示，通过计算，价格最低只能做到1万元左右，续航长的版本可能1.5万元左右。https://mp.weixin.qq.com/s/pugBwNkdHqTU8A3QvDjHZw",
+      "source": "知乎热榜",
+      "published": "2026-11-23T01:48:43+00:00",
+      "metadata": {
+        "heat": "496 万热度",
+        "answer_count": 310
+      }
+    },
+    {
+      "category": "news",
+      "title": "为什么会有那么多状元上北京大学光华管理学院?",
+      "url": "https://www.zhihu.com/question/27785177",
+      "normalized_url": "https://www.zhihu.com/question/27785177",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2015-01-25T14:09:49+00:00",
+      "metadata": {
+        "heat": "220 万热度",
+        "answer_count": 217
+      }
+    },
+    {
+      "category": "news",
+      "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
+      "url": "https://www.zhihu.com/question/2105195950671245354",
+      "normalized_url": "https://www.zhihu.com/question/2105195950671245354",
+      "summary": "[2 张图片]",
+      "source": "知乎热榜",
+      "published": "2026-11-14T23:10:27+00:00",
+      "metadata": {
+        "heat": "208 万热度",
+        "answer_count": 287
+      }
+    },
+    {
+      "category": "news",
+      "title": "比亚迪闪充站超时占位按 3 元/分钟收费，车主被收 300 元，这类规则能改善充电位被占用乱象吗？",
+      "url": "https://www.zhihu.com/question/2107213415815106938",
+      "normalized_url": "https://www.zhihu.com/question/2107213415815106938",
+      "summary": "编者按：本文来自微信公众号新周刊（ID：new-weekly），编辑：安菲尔德，创业邦经授权转载。 题图 | 电影《驾驶我的车》 “比亚迪闪充，我停车一小时收取我三百元占位费？ 你们真的穷疯了是么？我维权！” 一张300元占位费的账单截图 ，最近在社交媒体上广泛传播。按照该车主的说法，他当时在天津某座闪充站充电，27分钟充了17.74度电，电费28.03元。但充电结束后，车主没有及时拔枪移车，于是便产生了这笔昂贵的费用。 自觉委屈的车主希望得到网友力挺，好让比亚迪免掉这笔“意外的账单”。然而帖子传开后，评论区的画风完全相反——所有来留言的网友，一边倒地认为比亚迪“干得漂亮”。 “我停车一小时，你们就收取我三百元占位费？”（图/社交媒体截图） 闪充站是比亚迪推出的高功率电动汽车充电站网络，外界称其为“充电界的加油站”。根据其公示的费用规则，车辆充电结束后系统留出15分钟免费挪车时间，超时按3元/分钟收取占位费，不足1分钟按1分钟计，单日封顶300元。 有心细的网友根据上述规则计算，若加上免费时长，被收300元占位费意味着该车主至少赖在闪充桩上115分钟，绝非其所说“就停了1个小时”。更有",
+      "source": "知乎热榜",
+      "published": "2026-11-20T12:47:08+00:00",
+      "metadata": {
+        "heat": "205 万热度",
+        "answer_count": 45
+      }
+    },
+    {
+      "category": "news",
+      "title": "「酱油」一词为什么正在被「生抽」和「老抽」替代？",
+      "url": "https://www.zhihu.com/question/618083427",
+      "normalized_url": "https://www.zhihu.com/question/618083427",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2023-08-18T22:53:27+00:00",
+      "metadata": {
+        "heat": "161 万热度",
+        "answer_count": 704
+      }
+    },
+    {
+      "category": "news",
+      "title": "雷克萨斯 ES 纯电版正式上市起售价 33.99 万元，该定价在同级别车型里竞争力如何？",
+      "url": "https://www.zhihu.com/question/2107863773713265749",
+      "normalized_url": "https://www.zhihu.com/question/2107863773713265749",
+      "summary": "11月22日，雷克萨斯中国宣布，ES纯电版正式上市，全系标配宁德时代三元锂离子电芯，ES 350e长续航版综合工况续航707公里，售价33.99万元起；ES 500e高性能版零百加速5.5秒，售价35.99万元起。 雷克萨斯es纯电版正式上市",
+      "source": "知乎热榜",
+      "published": "2026-11-22T07:51:25+00:00",
+      "metadata": {
+        "heat": "158 万热度",
+        "answer_count": 101
+      }
+    },
+    {
+      "category": "news",
+      "title": "51 岁网络主播性侵未成年获刑四年，其亲属曾付60万给被害人家属要求私了被追责，如何从法律角度解读？",
+      "url": "https://www.zhihu.com/question/2107489470031335828",
+      "normalized_url": "https://www.zhihu.com/question/2107489470031335828",
+      "summary": "11月21日上午，最高人民检察院以“性侵害未成年人犯罪抗诉”为主题发布第六十四批指导性案例，为全国检察机关依法精准履行抗诉职能、从严惩处性侵害未成年人犯罪提供办案指引。 此次发布的第六十四批指导性案例，其中一例为许某强奸二审抗诉案。 该案当中，被告人为许某，男，1972年9月出生，某网络主播。2023年8月，被害人王某翠（女，案发时16周岁）受雇于许某，加入其直播团队学习运营。 2023年9月8日15时许，许某以需要人帮忙放牛为由，开车将被害人拉至其经营的牛场偏僻处，在车内强行与王某翠发生性关系。当日，被害人在家属陪同下报案。10月17日，王某翠接受赔偿款9万元并出具谅解书。 2023年12月22日，内蒙古自治区某县人民检察院以许某涉嫌强奸罪提起公诉。2024年2月2日，某县人民法院经审理认为，被害人除报案当日陈述外，其余陈述以及庭审中均称与被告人发生的行为系自愿，勘验检查未发现被害人体表损伤或衣物受损，无法认定被告人行为违背了被害人意志，认定被告人犯强奸罪事实不清、证据不足，判决被告人许某无罪。 2024年2月4日，某县人民检察院以一审判决在事实认定、法律适用上均存在错误为由，向某市",
+      "source": "知乎热榜",
+      "published": "2026-11-21T07:04:04+00:00",
+      "metadata": {
+        "heat": "152 万热度",
+        "answer_count": 97
+      }
+    },
+    {
+      "category": "news",
+      "title": "余文乐自曝因长期高压患上恐慌症，严重到不能开车，心理压力为何会引发躯体化症状？这种情况还能治愈吗？",
+      "url": "https://www.zhihu.com/question/2107780639281735166",
+      "normalized_url": "https://www.zhihu.com/question/2107780639281735166",
+      "summary": "近日，余文乐在节目中自曝，二十到三十岁时他处于爆红期时，因长期身处高压负面环境。他曾因恐慌症引发严重躯体化症状，会在开车途中突然手抖、冒冷汗无法呼吸，只能紧急靠边停车，此后不敢再开车，甚至害怕坐飞机。 年少意气风发之时，余文乐怀揣热烈的理想，立志三十岁之前拿下最佳男演员。那是属于少年时代的向往。历经岁月流转，内心状态悄然改变，他主动选择放缓脚步，调整自己的生活节奏。这个决定，意味着很难再重回事业曾经的高处。对此余文乐清醒并且坦然接纳这样的现实，愿意为自己的决定承担一切结果。虽然行业环境追逐流量热度，但余文乐清楚自己的性格很难适应这样的规则。比起追逐热闹，他更期待能够读懂演员本身的导演，静待契合自己内心状态的合作。 余文乐过往多次经历采访被断章取义，个人表达被随意曲解，他便选择长期拒绝访谈。哪怕会错失曝光的机遇，也不愿违背自己的感受勉强出镜。 据公开资料，余文乐1981年11月13日出生于中国香港，影视演员、流行乐歌手。代表作品有《男儿本色》《志明与春娇》《头文字D》等。2017年12月5日，余文乐宣布与中国台湾女星王棠云结婚。2018年5月10日，余文乐与王棠云的儿子出生。2020年1",
+      "source": "知乎热榜",
+      "published": "2026-11-22T02:21:05+00:00",
+      "metadata": {
+        "heat": "148 万热度",
+        "answer_count": 119
+      }
+    },
+    {
+      "category": "news",
+      "title": "为什么一到香港就能强烈地感受到那种都市感呢？",
+      "url": "https://www.zhihu.com/question/2105832401150666215",
+      "normalized_url": "https://www.zhihu.com/question/2105832401150666215",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2026-11-16T17:19:28+00:00",
+      "metadata": {
+        "heat": "144 万热度",
+        "answer_count": 142
+      }
+    },
+    {
+      "category": "news",
+      "title": "小学生试卷现1991年「张大爷」，经核实为虚构，为啥虚构烂梗能被包装成新闻收割流量？带给我们哪些反思？",
+      "url": "https://www.zhihu.com/question/2107936450423382583",
+      "normalized_url": "https://www.zhihu.com/question/2107936450423382583",
+      "summary": "“扎心了！‘80 90后’躲过岁月，却没躲过小学生试卷。”近日，网上流传的试卷上出现1988年“张奶奶”、1991年“张大爷”。虽然有辟谣平台很快指出这一信息不实，但仍有一些媒体和自媒体创作者跟进，并追问“这年龄设定谁写的”。如此信以为真，显然是被“误导”了。 经多方求证，所谓“小学生试卷”查无城市、查无学校、查无版本。因此，这更像是手搓的搞笑图，再被网民截出来当“教育新闻”反复转发。 这些无中生有的烂梗，依托的仅仅是几张所谓“试卷”的照片。这种拙劣的网络“整蛊”，除了让人感觉手段粗陋、创意贫血，也不禁引人深思：此类烂梗为何层出不穷？炮制者可能是出于好玩，推波助澜者的动力则是博取流量。于是，炮制者无人质疑，跟风者彼此默契，都在助力误导公众的流量泛滥。 还需追问，此类烂梗凭什么实现病毒式传播？这恐怕与平台的算法偏好关系密切。在一些社交媒体平台，越是猎奇的、超出常情的、能戳中年龄焦虑的，越容易得到推荐。平台不生产梗，但特别擅长把吸引用户注意力的东西推荐到位，并形成可复制的模式。至于是否导致假信息跑得比真新闻快、社会信任底座一点点塌掉，有些推荐算法逻辑并不太在乎。 注意力分配，不能让“谁更敢",
+      "source": "知乎热榜",
+      "published": "2026-11-22T12:40:13+00:00",
+      "metadata": {
+        "heat": "139 万热度",
+        "answer_count": 70
+      }
+    },
+    {
+      "category": "news",
+      "title": "如何看待俄海军20380型护卫舰「水星」号在利比亚班加西港遭袭起火爆炸，泽连斯基证实系乌方无人艇击沉？",
+      "url": "https://www.zhihu.com/question/2107987555467654398",
+      "normalized_url": "https://www.zhihu.com/question/2107987555467654398",
+      "summary": "乌克兰总统泽连斯基23日在社交媒体上发文证实，乌方在利比亚沿海使用7艘无人艇击沉俄罗斯“水星”号护卫舰，并击中一艘俄罗斯干货船。（总台记者 董薇） 据新华社11月23日报道，利比亚媒体22日报道称，一艘停泊在该国东部城市班加西海军基地的俄罗斯船只当天凌晨遭遇袭击并起火。 泽连斯基证实击沉俄罗斯护卫舰更多资讯请下载央视新闻客户端 当地媒体援引利比亚东部政府的一份声明报道说，这艘船只当时正朝俄罗斯方向返航，途中停靠班加西港补给燃料与物资时遭袭，停靠依据是俄方与其签署的海事合作协定以及给予双方海军的相关便利安排。声明说，目前火情已经得到控制，港口设施、海军基地及其附属仓库“安全无恙”，各项工作已经恢复正常运转。 美国军事网站“战区”刊文称，此次遭袭的是一艘俄罗斯海军20380型护卫舰“水星”号，该舰在2023年服役，卫星图像显示，护卫舰遭袭后起火爆炸，舰体后半部分疑似沉入水中，受损严重。 当地媒体援引军方消息人士的话报道说，利比亚“国民军”在班加西港拦截了数艘试图袭击船只的无人水面艇，但仍发生了爆炸。报道称，这些无人艇可能来自乌克兰军队在利比亚西部地区运营的一处军事基地。美国阿克西奥斯新闻网",
+      "source": "知乎热榜",
+      "published": "2026-11-22T16:03:17+00:00",
+      "metadata": {
+        "heat": "134 万热度",
+        "answer_count": 274
+      }
+    },
+    {
+      "category": "news",
+      "title": "GLM-5.4已经在 GLM Coding Plan 中上线，有何技术亮点？",
+      "url": "https://www.zhihu.com/question/2108174894781445223",
+      "normalized_url": "https://www.zhihu.com/question/2108174894781445223",
+      "summary": "过去三个月，我们同时激进的Scaling Loop和模型大小，大家首先看到的是Loop Transformer带来的惊喜。GLM-5.4新增视觉能力与更强的泛Coding能力。",
+      "source": "知乎热榜",
+      "published": "2026-11-23T04:27:42+00:00",
+      "metadata": {
+        "heat": "130 万热度",
+        "answer_count": 72
+      }
+    },
+    {
+      "category": "news",
+      "title": "Kimi 宣布发力 AI for Science 方向，有哪些信息值得关注？",
+      "url": "https://www.zhihu.com/question/2107898424943179770",
+      "normalized_url": "https://www.zhihu.com/question/2107898424943179770",
+      "summary": "月之暗面（Moonshot AI）国际业务负责人贾科莫・菲卡里（Giacomo Ficari）在葡萄牙里斯本举行的网络峰会上，谈到了该公司在编程之外看好的下一个方向：科学研究。这番发言是 Kimi 呼应趋势之举，Coding Agent 对基座模型的增益效果已经被 Anthropic、智谱和 Qwen 等先后证明过，唯 AI for Science 在硅谷已经成为显学之际，国内的基础模型响应稍显迟钝。 我们从 Kimi 开放平台看到的案例介绍显示，晶泰接入 Kimi K3 后，主要利用其从化学表达式、科研图表中提取信息，辅助药物和材料研究人员整理文献。Kimi也要往AI for Science方向发力了_新浪科技_新浪网Kimi也要往AI for Science方向发力了",
+      "source": "知乎热榜",
+      "published": "2026-11-22T10:09:07+00:00",
+      "metadata": {
+        "heat": "116 万热度",
+        "answer_count": 19
+      }
+    },
+    {
+      "category": "news",
+      "title": "可口可乐的护城河是什么？",
+      "url": "https://www.zhihu.com/question/28332911",
+      "normalized_url": "https://www.zhihu.com/question/28332911",
+      "summary": "",
+      "source": "知乎热榜",
+      "published": "2015-02-23T17:34:34+00:00",
+      "metadata": {
+        "heat": "113 万热度",
+        "answer_count": 17
+      }
+    },
+    {
+      "category": "news",
+      "title": "辞职也不放过！“他们想确保我名誉扫地，离开挪威”",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909630.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909630.shtml",
+      "summary": "【文/观察者网 尧云栖】 近日，挪威《晚邮报》刊文，声称前挪威东南大学教授格伦·迪森散播谎言和阴谋论，认为不应允许其在挪威大学任教。11月22日，迪森发布题为“挪威学术自由之死”的文章，对该媒体的无端指控进行逐条回应。 迪森自2020年起在挪威东南大学担任教授。作为观察者网专栏作者，他曾在“思想者茶座”栏目中连线表示：“我在国外生活了20年，六年前回到挪威，针对我的攻击几乎立刻就开始了。” 在今年11月17日发布的一则采访视频中，迪森宣布了辞职的消息。该消息已得到挪威东南大学的证实。22日的文章中，他首次在个人平台上披露辞职过程的详情。 据挪威东南大学官网介绍，迪森曾在澳大利亚麦考瑞大学、澳西悉尼大学、俄罗斯国立高等经济大学工作过。他于2018年起担任俄罗斯外交政策期刊《全球事务中的俄罗斯》的编辑。 【思想者茶座】连线格伦·迪森（Glenn Diesen） 不应被允许在挪威教书？无视挪威主流媒体的询问？迪森回应 11月22日，迪森在发布的回应文章中直言：“对于这种人身攻击，他们需要拿出证据吗？完全不。相反，他们试图毫无理由地将我和大屠杀否认者相提并论来为其辩解。” “这就是挪威新的新闻",
+      "source": "观察者网·头条",
+      "published": "2026-11-23T09:50:00+00:00",
+      "metadata": {
+        "feed_url": "https://hub.slarker.me/guancha/headline"
+      }
+    },
+    {
+      "category": "news",
+      "title": "伯纳姆：无视前首相们的批评，他们“思想陈旧”",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909667_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909667_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:54:06+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "“我们为了这个会花了1.5亿澳元，他得下台”",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909660_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909660_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:52+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "德国、丹麦数百所学校收到炸弹威胁，警方：无需恐慌",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909669_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909669_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:50+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "五角大楼不满：加拿大还不是“可靠伙伴”",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909654_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909654_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:50+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "泽连斯基：乌克兰无人艇“击沉”一艘俄罗斯护卫舰",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909661_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909661_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:50+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "佩斯科夫：俄罗斯想知道，欧洲愿意为和平做多大贡献",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909658_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909658_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:50+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "修复韩美关系？李在明突然改组外交与国安团队",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909668_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909668_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:49+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    },
+    {
+      "category": "news",
+      "title": "越南高铁关键合同敲定，韩媒渲染“中方出局”，真正的竞争还在后面",
+      "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909644_s.shtml",
+      "normalized_url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_11_23_909644_s.shtml",
+      "summary": "",
+      "source": "观察者网·要闻",
+      "published": "2026-11-23T13:53:49+00:00",
+      "metadata": {
+        "feed_url": "https://rsshub.rssforever.com/guancha/story"
+      }
+    }
+  ]
+}
